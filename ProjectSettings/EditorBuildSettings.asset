@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: a961c05d81fbf6f4bb68ddcd7c89a130
+  - enabled: 1
+    path: Assets/Scenes/Pacman.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/InnovationScene.unity
+    guid: 6ff38cd7c022f5747a26fe0b01488dfe
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
